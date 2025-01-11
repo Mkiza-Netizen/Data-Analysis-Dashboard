@@ -1,14 +1,14 @@
 # MK Store_Chocolate_Data Analysis (Interactive Dashboard Creation using MS Excel)
 
-Project Objective 
+## Project Objective 
 
 The MK store wants to create a dynamic country sales level report so that the owner can understand performance of each sales man in the region.
 
-Dataset used.
+# Dataset used.
 
 - <a href="https://github.com/Mkiza-Netizen/Data-Analysis-Dashboard/blob/main/CHOCOLATE%20ANALYSIS.xlsx">Dataset</a>
 
-Question (KPI’S)
+# Question (KPI’S)
 
 	Quick statistics
 
@@ -30,7 +30,7 @@ Question (KPI’S)
 
 	Which products to discontinue
 
-Process.
+# Process.
 
 -Verify data for any missing values and anomalies, and sort out the same
 
@@ -41,13 +41,13 @@ Process.
 -Merge all pivot tables into one dashboard and apply validation lists and slicers to make dynamic dashboard.
 
 
-Dashboard interaction
+# Dashboard interaction
 
 -<a href="https://github.com/Mkiza-Netizen/Data-Analysis-Dashboard/blob/main/DYNAMIC%20COUNTRY%20SALES%20LEVEL%20REPORT..PNG">Dashboard</a>
 
 ![DYNAMIC COUNTRY SALES LEVEL REPORT](https://github.com/user-attachments/assets/25f4a628-524a-42f7-9ccf-e259c2f6de0f)
 
-Project Insights
+# Project Insights
 
 -In all aspects India sales more, chocolate product with highest sales it result into maximum profit margin compared to other countries.
 
@@ -56,7 +56,7 @@ Project Insights
 -Canada has a promising future with highest revenue generated while selling product are few compared to India with less than 1000 product.
 
 
-Final Conclusion.
+# Final Conclusion.
 
 Product revenue generation vary from country to country as salesman too, to increase revenue there must be a feasibility study to identify both products and units solid to know exactly which product underperform.
 Foristance Milkbars in india perform badly with 99.9% loss but in USA has 86.4% of profit.
