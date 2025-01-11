@@ -47,6 +47,21 @@ Dashboard interaction
 
 ![DYNAMIC COUNTRY SALES LEVEL REPORT](https://github.com/user-attachments/assets/25f4a628-524a-42f7-9ccf-e259c2f6de0f)
 
+Project Insights
+
+-In all aspects India sales more, chocolate product with highest sales it result into maximum profit margin compared to other countries.
+
+-New Zealand and Canada sales man have reached the required threshold amount of 12,000 dollars per person compared to other country sales man.
+
+-Canada has a promising future with highest revenue generated while selling product are few compared to India with less than 1000 product.
+
+
+Final Conclusion.
+
+Product revenue generation vary from country to country as salesman too, to increase revenue there must be a feasibility study to identify both products and units solid to know exactly which product underperform.
+Foristance Milkbars in india perform badly with 99.9% loss but in USA has 86.4% of profit.
+
+
 
 
 
