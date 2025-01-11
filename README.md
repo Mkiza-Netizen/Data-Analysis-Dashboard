@@ -30,6 +30,11 @@ Question (KPI’S)
 
 	Which products to discontinue
 
+Dashboard interaction
+
+-<a href="https://github.com/Mkiza-Netizen/Data-Analysis-Dashboard/blob/main/DYNAMIC%20COUNTRY%20SALES%20LEVEL%20REPORT..PNG">Dashboard</a>
+
+
 
 
 
