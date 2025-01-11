@@ -45,6 +45,9 @@ Dashboard interaction
 
 -<a href="https://github.com/Mkiza-Netizen/Data-Analysis-Dashboard/blob/main/DYNAMIC%20COUNTRY%20SALES%20LEVEL%20REPORT..PNG">Dashboard</a>
 
+![DYNAMIC COUNTRY SALES LEVEL REPORT](https://github.com/user-attachments/assets/25f4a628-524a-42f7-9ccf-e259c2f6de0f)
+
+
 
 
 
