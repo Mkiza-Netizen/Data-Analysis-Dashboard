@@ -30,9 +30,22 @@ Question (KPI’S)
 
 	Which products to discontinue
 
+Process.
+
+-Verify data for any missing values and anomalies, and sort out the same
+
+-Made sure data is consistent and clean with respect to data types, data formats and values used.
+
+-Created pivot tables according to the question asked
+
+-Merge all pivot tables into one dashboard and apply validation lists and slicers to make dynamic dashboard.
+
+
 Dashboard interaction
 
 -<a href="https://github.com/Mkiza-Netizen/Data-Analysis-Dashboard/blob/main/DYNAMIC%20COUNTRY%20SALES%20LEVEL%20REPORT..PNG">Dashboard</a>
+
+
 
 
 
