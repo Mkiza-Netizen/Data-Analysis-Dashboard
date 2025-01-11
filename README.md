@@ -8,5 +8,18 @@ Dataset used.
 
 - <a href="https://github.com/Mkiza-Netizen/Data-Analysis-Dashboard/blob/main/CHOCOLATE%20ANALYSIS.xlsx">Dataset</a>
 
+Question (KPI’S)
+	Quick statistics
+	Exploratory Data Analysis (EDA) 
+	Sales by country (with formulas)
+	Sales by country (with pivots)
+	Top 5 products by $ per unit
+	Are there any anomalies in the data?
+	Best Sales person by country
+	Profits by product (using products table)
+	Dynamic country-level Sales Report
+	Which products to discontinue
+
+
 
 
